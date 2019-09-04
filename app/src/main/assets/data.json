@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "jose",
+    "idade": 30,
+    "votou": true
+  },
+  {
+    "nome": "maria",
+    "idade": 40,
+    "votou": false
+  },
+  {
+    "nome": "antonio",
+    "idade": 10,
+    "votou": false
+  }
+]
